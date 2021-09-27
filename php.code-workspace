@@ -5,20 +5,48 @@
     }
   ],
   "settings": {
-    "html.format.templating": true,
     "php.validate.executablePath": "C:/xampp/php/php.exe",
-    "php.executablePath": "C:/xampp/php/php.exe",
+    "gitlens.advanced.messages": {
+      "suppressGitMissingWarning": true
+    },
     "editor.accessibilitySupport": "off",
     "files.autoSave": "afterDelay",
     "git.enableSmartCommit": true,
     "git.autofetch": true,
+
+    "workbench.iconTheme": "material-icon-theme",
+
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+
+    "svg.completion.emmet": true,
     "emmet.syntaxProfiles": {},
+
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDelete": false,
+    "prettier.jsxBracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.proseWrap": "always",
+    "prettier.trailingComma": "all",
+    "prettier.withNodeModules": true,
     "editor.formatOnSave": true,
     "html.format.endWithNewline": true,
     "html.format.indentHandlebars": true,
     "html.format.indentInnerHtml": true,
-    "gitlens.advanced.messages": {
-      "suppressGitMissingWarning": true
-    }
+    "html.format.templating": true,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+    "javascript.format.semicolons": "insert",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 16,
+    "explorer.confirmDragAndDrop": false,
+    "editor.formatOnType": true,
+    "window.zoomLevel": 1,
+    "php.executablePath": "C:/xampp/php/php.exe"
   }
 }

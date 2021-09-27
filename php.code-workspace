@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "html.format.templating": true,
+    "php.validate.executablePath": "C:/xampp/php/php.exe",
+    "php.executablePath": "C:/xampp/php/php.exe",
+    "editor.accessibilitySupport": "off",
+    "files.autoSave": "afterDelay",
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "emmet.syntaxProfiles": {},
+    "editor.formatOnSave": true,
+    "html.format.endWithNewline": true,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "gitlens.advanced.messages": {
+      "suppressGitMissingWarning": true
+    }
+  }
+}
